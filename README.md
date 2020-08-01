@@ -1,2 +1,3 @@
-# ds-visualizer
-This will help you in understanding Data Structure and Algorithm
+# data structure-visualizer
+
+# To see the output [CLICK HERE](https://dchoudhary4444.github.io/ds-visualizer/ds/index.html)
